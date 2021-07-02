@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: violet;
+    min-height: 100vh;
+    display: flex;
+}
+.main{
+    text-align: center;
+}
+#para{
+    visibility: hidden;
+}
